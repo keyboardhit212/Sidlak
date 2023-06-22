@@ -1,6 +1,8 @@
 # Sidlak
 A Flutter-based mobile quiz game that aims to reinforce/consolidate the lessons taught in Elementary Education, specifically from 1st - 4th Grade.
 
+## Installation
+An APK file named **app-release.apk** is provided in the repository. You can just download it and install it on your Android device.
 
 ## Screenshots
 ![homepage](https://github.com/keyboardhit212/Sidlak/assets/136884319/547cbead-f94f-493c-818e-2b97805f49fa)
